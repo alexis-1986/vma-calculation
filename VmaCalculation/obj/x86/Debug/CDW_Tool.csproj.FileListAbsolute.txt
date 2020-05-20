@@ -1,0 +1,13 @@
+d:\aechard\documents\visual studio 2010\Projects\CDW_Tool\CDW_Tool\obj\x86\Debug\CDW_Tool.Form1.resources
+d:\aechard\documents\visual studio 2010\Projects\CDW_Tool\CDW_Tool\obj\x86\Debug\CDW_Tool.Properties.Resources.resources
+d:\aechard\documents\visual studio 2010\Projects\CDW_Tool\CDW_Tool\obj\x86\Debug\CDW_Tool.csproj.GenerateResource.Cache
+d:\aechard\documents\visual studio 2010\Projects\CDW_Tool\CDW_Tool\bin\Debug\CDW_Tool.exe
+d:\aechard\documents\visual studio 2010\Projects\CDW_Tool\CDW_Tool\bin\Debug\CDW_Tool.pdb
+d:\aechard\documents\visual studio 2010\Projects\CDW_Tool\CDW_Tool\obj\x86\Debug\CDW_Tool.exe
+d:\aechard\documents\visual studio 2010\Projects\CDW_Tool\CDW_Tool\obj\x86\Debug\CDW_Tool.pdb
+d:\aechard\documents\visual studio 2010\Projects\CDW_Tool\CDW_Tool\bin\Debug\CDW_Tool.exe.config
+d:\aechard\documents\visual studio 2010\Projects\CDW_Tool\CDW_Tool\bin\Debug\CDW_Tool.exe.manifest
+d:\aechard\documents\visual studio 2010\Projects\CDW_Tool\CDW_Tool\bin\Debug\CDW_Tool.application
+d:\aechard\documents\visual studio 2010\Projects\CDW_Tool\CDW_Tool\obj\x86\Debug\CDW_Tool.exe.manifest
+d:\aechard\documents\visual studio 2010\Projects\CDW_Tool\CDW_Tool\obj\x86\Debug\CDW_Tool.application
+D:\aechard\Documents\Visual Studio 2010\Projects\CDW_Tool\CDW_Tool\obj\x86\Debug\CDW_Tool.csproj.CoreCompileInputs.cache
